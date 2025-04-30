@@ -1,0 +1,13 @@
+streamlit
+mlflow
+scikit-learn
+pandas
+joblib
+jupyterlab
+ipykernel
+torch
+nltk
+wordcloud
+imblearn
+matplotlib
+seaborn

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RRMSU/Documents/GitHub/AI_or_Human/mlruns/147803855296939575/c134a1f784bb45ef87f6143f980f7dcb/artifacts
+end_time: 1745805785878
+entry_point_name: ''
+experiment_id: '147803855296939575'
+lifecycle_stage: active
+run_id: c134a1f784bb45ef87f6143f980f7dcb
+run_name: rf-gridsearch
+run_uuid: c134a1f784bb45ef87f6143f980f7dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745805759389
+status: 3
+tags: []
+user_id: RRMSU
